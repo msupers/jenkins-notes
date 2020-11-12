@@ -1,0 +1,13 @@
+/target/
+/bin/
+/.DS_Store
+/.settings/
+/.idea/
+.classpath
+.project
+/.vscode/
+/jenkins/jenkins_home
+#idea
+*.ipr
+*.iml
+*.iw

@@ -1,0 +1,19 @@
+version: '3'
+services:
+    jenkins:
+        image: "jenkins/jenkins:2.249.3-lts-centos7"
+        container_name: "jenkins-master"
+        restart: always
+        user: root
+        volumes:
+            - ./jenkins_home:/var/jenkins_home
+            - /run/docker.sock:/run/docker.sock
+        ports:
+            - 8080:8080
+        networks:
+           extnetwork:
+networks:
+   extnetwork:
+      ipam:
+         config:
+         - subnet: 192.168.168.0/24
