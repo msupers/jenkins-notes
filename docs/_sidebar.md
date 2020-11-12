@@ -1,5 +1,3 @@
 * jenkins
-    * [OS install](ubuntu20.04/install.md)
-    * [常用软件的安装和配置](ubuntu20.04/init.md)
-    * [dwm](ubuntu20.04/dwm.md)
+    * [一、使用docker安装jenkins](jenkins/install.md)
 
