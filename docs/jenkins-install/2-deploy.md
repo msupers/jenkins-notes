@@ -2,9 +2,9 @@
 
 
 ```
-sudo mkdir /home/dev/workspaces
+sudo mkdir -p /home/workspaces
 
-cd /home/dev/workspaces
+cd /home/workspaces
 
 sudo git clone https://github.com/msupers/jenkins-notes.git
 
@@ -12,7 +12,7 @@ cd jenkins-notes/jenkins
 
 ```
 
-### 2-2. docker-compose.yml含义（可选）
+### 2-2. 了解docker-compose.yml含义（可选）
 
 ```
 version: '3'
