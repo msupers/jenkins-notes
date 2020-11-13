@@ -114,7 +114,7 @@ sudo docker logs
 
 ## 1-6. 安装插件
 
-?> 安装pipeline插件
+？> 安装pipeline插件
 
 ![](../_images/2020-11-12_20-51.gif)
 
