@@ -118,7 +118,7 @@ sudo docker logs
 
 ![](../_images/2020-11-12_20-51.gif)
 
-？> 安装其他插件
+？> 安装其他常用插件
 
 - HTTP Request *jenkins-shared-lib 中发送http请求*
 - Chinese (Simplified) *中文*
