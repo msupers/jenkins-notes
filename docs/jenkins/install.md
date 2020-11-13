@@ -117,3 +117,15 @@ sudo docker logs
 ?> 安装pipeline插件
 
 ![](../_images/2020-11-12_20-51.gif)
+
+？> 安装其他插件
+
+- HTTP Request *jenkins-shared-lib 中发送http请求*
+- Chinese (Simplified) *中文*
+- Role-based Authorization Strategy *权限认证矩阵*
+- AnsiColor *日志支持配置彩色*
+- Timestamper *日志打印时间*
+- SSH agent *通过SSH连接slave*
+- Email Extension *邮件扩展*
+- Gradle *全局build 工具*
+- NodeJS *全局build 工具*
