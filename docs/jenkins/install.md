@@ -129,3 +129,5 @@ sudo docker logs
 - Email Extension *邮件扩展*
 - Gradle *全局build 工具*
 - NodeJS *全局build 工具*
+
+![](../_images/2020-11-13_09-26.gif)
