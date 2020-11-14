@@ -128,7 +128,7 @@ networks:
 ### 2-3-1. 启动jenkins容器
 
 ```
-sudo docker-compose up -d 
+docker-compose up -d 
 ```
 
 ### 2-3-2. 停止jenkins容器
@@ -136,13 +136,13 @@ sudo docker-compose up -d
 !> 后期维护命令
 
 ```
-sudo docker-compose down
+docker-compose down
 ```
 
 ### 2-4. 确认容器状态
 
 ```
-sudo docker ps 
+docker ps 
 ```
 
 ![](../_images/2020-11-12_20-10.png)
@@ -150,7 +150,7 @@ sudo docker ps
 ### 2-5. 获取初始化密码
 
 ```
-sudo docker logs  
+docker logs  
 ```
 
 ![](../_images/2020-11-12_20-11.png)
