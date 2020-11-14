@@ -84,11 +84,11 @@ sudo mkdir -p /home/workspaces
 
 cd /home/workspaces
 
-wget https://github.com/msupers/jenkins-compose/archive/2.235.5-lts-centos7.zip
+wget https://github.com/msupers/jenkins-compose/archive/2.235.5.zip
 
-unzip 2.235.5-lts-centos7.zip 
+unzip 2.235.5.zip 
 
-cd jenkins-compose-2.235.5-lts-centos7
+cd jenkins-compose-2.235.5
 
 
 ```
@@ -100,7 +100,7 @@ version: '3'
 services:
     jenkins:
         # docker 镜像，从docker hub 网站获取 lts代表是长期支持版本
-        image: "jenkins/jenkins:2.235.5-lts-centos7"
+        image: "jenkinszh/jenkins-zh:2.235.5"
         # 容器名字前缀，注意有多个docker-compose服务时候不要重复
         container_name: "jenkins-master"
         # 机器重启时，拉起容器
