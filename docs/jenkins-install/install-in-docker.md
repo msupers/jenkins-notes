@@ -82,9 +82,12 @@ sudo mkdir -p /home/workspaces
 
 cd /home/workspaces
 
-sudo git clone https://github.com/msupers/jenkins-notes.git
+wget https://github.com/msupers/jenkins-compose/archive/2.235.5-lts-centos7.zip
 
-cd jenkins-notes/jenkins
+unzip 2.235.5-lts-centos7.zip 
+
+cd jenkins-compose-2.235.5-lts-centos7
+
 
 ```
 
