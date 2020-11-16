@@ -93,7 +93,7 @@ docker-compose -v
 
 ### 2-1. 获取jenkins部署的repo
 
-!> 本例安装版本： 2.235.5-lts-centos7,如果想安装其他版本，请参考[jenkins-compose](https://github.com/msupers/jenkins-compose/)并change wget地址
+!> 本例安装版本： jenkins国内版2.235.5,如果想安装其他版本，请参考[jenkins-compose](https://github.com/msupers/jenkins-compose/)并change下面wget地址
 
 
 ```
