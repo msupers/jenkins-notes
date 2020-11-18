@@ -11,8 +11,8 @@ yum install git wget curl net-tools unzip sudo bind  bind-utils htop -y
 ?>关闭防火墙
 
 ```
-systemctl firewalld stop
-systemctl disabled firewalld
+systemctl stop firewalld
+systemctl disable firewalld
 ```
 
 ?> 关闭selinux
