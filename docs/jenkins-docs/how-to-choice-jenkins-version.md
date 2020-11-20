@@ -88,14 +88,6 @@ docker-compose down
 ## 拉取镜像
 
 docker-compose pull
-
-## 镜像编译
-
-sh -x build.sh
-
-## 镜像上传仓库
-
-sh -x push.sh
 ```
 
 ### 2-2. 对原始镜像进行修改（提高）
