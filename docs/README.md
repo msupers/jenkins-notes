@@ -10,5 +10,5 @@
 ?> jenkins 使用总结
 
 - [Centos7上使用docker部署jenkins](jenkins-docs/install-in-docker.md)
-- [Jenkins版本选择](jenkins-choice-version/)
+- [Jenkins如何选择版本](jenkins-docs/how-to-choice-jenkins-version.md)
 
