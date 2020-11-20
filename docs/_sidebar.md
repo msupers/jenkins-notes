@@ -1,2 +1,2 @@
-* [Centos7上使用docker部署jenkins](jenkins-install/install-in-docker.md)
+* [Centos7上使用docker部署jenkins](jenkins-docs/install-in-docker.md)
 
