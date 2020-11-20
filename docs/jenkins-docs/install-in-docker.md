@@ -53,7 +53,7 @@ sudo yum-config-manager     --add-repo     https://download.docker.com/linux/cen
 ?>安装docker
 
 ```
-sudo yum install docker-ce docker-ce-cli containerd.io
+sudo yum install docker-ce docker-ce-cli containerd.io -y
 ```
 
 ?>检查、启动、设置重启机器启动
