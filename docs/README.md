@@ -2,6 +2,8 @@
 
 - [docker安装文档](https://docs.docker.com/engine/install/centos/)
 - [docker-compose安装文档](https://docs.docker.com/compose/install/)
+- [jenkins docker hub](https://hub.docker.com/r/jenkins/jenkins)
+- [jenkins中文社区 docker hub](https://hub.docker.com/r/jenkinszh/jenkins-zh)
 
 
 
